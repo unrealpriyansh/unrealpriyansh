@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @unrealpriyansh
-- 👀 I’m interested in python,java and c#
-- 🌱 I’m currently learning Python
-- 📫 How to reach me ...p45riyansh@gmail.com
+- 👋 Hi, I’m @unrealpriyansh.
+
 
 <!---
 unrealpriyansh/unrealpriyansh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
